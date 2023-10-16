@@ -43,5 +43,13 @@
 
 3) Criado mescla entre as tabelas 'departament' e 'dept_locations' (mesmo caminho dos passos 1 e 2) e criado um id:
 
+<p align = "center">
+  <img src = "https://user-images.githubusercontent.com/50236579/275487412-a2ba1a58-5e74-48a5-a863-f9428ddd6b98.png">
+</p>
 
 
+#Criação de relatório com base nos dados carregados
+
+<p align = "center">
+  <img src = "https://user-images.githubusercontent.com/50236579/275487412-a2ba1a58-5e74-48a5-a863-f9428ddd6b98.png">
+</p>

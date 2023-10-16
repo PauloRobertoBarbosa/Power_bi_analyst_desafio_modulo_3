@@ -51,5 +51,5 @@
 #Criação de relatório com base nos dados carregados
 
 <p align = "center">
-  <img src = "https://user-images.githubusercontent.com/50236579/275487412-a2ba1a58-5e74-48a5-a863-f9428ddd6b98.png">
+  <img src = "https://user-images.githubusercontent.com/50236579/275494152-dd1b7c2c-f7a1-4391-8588-f7ab27141313.png">
 </p>

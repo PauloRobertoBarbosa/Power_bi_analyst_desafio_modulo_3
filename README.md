@@ -20,4 +20,9 @@
 
 1) Mesclar consultas employee e departament:
     Criado a mescla através do caminho:
-      Power Query -> Página Inicial -> Mesclar Consultas
+      Power Query -> Página Inicial -> Mesclar Consultas:
+
+<div>
+https://github.com/PauloRobertoBarbosa/Power_bi_analyst_desafio_modulo_3/issues/1#issue-1944917801
+</div>
+
